@@ -1,6 +1,6 @@
-# nomad
+# Glabelens
 
-Ling AI Application
+AR Application
 
 ## Getting Started
 
