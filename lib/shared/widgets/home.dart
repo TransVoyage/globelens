@@ -64,7 +64,7 @@ class _HomeState extends State<Home> {
     }
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Nomad')),
+      appBar: AppBar(title: const Text('TransVoyage')),
       body: SizedBox(
           width: screenWidth,
           height: screenHeight,

@@ -65,11 +65,11 @@ class DashboardScreen extends StatelessWidget {
             const SizedBox(height: 20),
             const CircleAvatar(
               radius: 50,
-              backgroundImage: AssetImage('assets/images/user_photo.png'),
+              backgroundImage: AssetImage('assets/images/user_photo.jpg'),
             ),
             const SizedBox(height: 10),
             const Text(
-              'Nombre del Usuario',
+              'Julio',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 20),

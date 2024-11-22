@@ -17,7 +17,8 @@ class Application extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Nomad',
+      debugShowCheckedModeBanner: false,
+      title: 'TransVoyage',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),

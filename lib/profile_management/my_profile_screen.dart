@@ -26,7 +26,7 @@ class MyProfileScreen extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             const Text(
-              'Nombre del Usuario',
+              'Julio Vargas',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
@@ -41,14 +41,14 @@ class MyProfileScreen extends StatelessWidget {
               ),
             ),
             Text(
-              'Correo: usuario@correo.com',
+              'Correo: julio25@correo.com',
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.grey[600],
               ),
             ),
             Text(
-              'Ubicación: Ciudad, País',
+              'Ubicación: Lima, Peru',
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.grey[600],
